@@ -71,3 +71,5 @@ raw Markdown line up prettily. You can also use inline Markdown.
 |:-------|:-------|:-------|
 |*Still*|`renders`|**nicely**|
 |1|2|3|
+
+[![](https://img.youtube.com/vi/sSm2dRarhPo/0.jpg)](https://www.youtube.com/watch?v=sSm2dRarhPo)
