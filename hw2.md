@@ -46,21 +46,22 @@ digraph G {
 <details>
 <summary>Gantt chart</summary>
 
+**↓在Chrome上加入擴充功能Markdown Diagrams可直接看到圖**
 ```mermaid
 gantt
 	title A Gantt Diagram
-	dateFormat DDD
+	axisFormat %_j天
 	
-	研擬計畫		: 1,1d
-	任務分配		: 2,4d
-	取得硬體		: 2,17d
-	程式開發		: 670d
-	安裝硬體		: 19,10d
-	程式測試		: 76,30d
-	鑽寫使用手冊		: 29,25d
-	轉換檔案		: 29,20d
-	系統測試		: 106,25d
-	使用者訓練		: 54,20d
-	使用者測試		: 131,25d
+	研擬計畫		: no1, 001, 1d
+	任務分配		: no2, after no1, 4d
+	取得硬體		: no3, after no1, 17d
+	程式開發		: no4, after no2, 70d
+	安裝硬體		: no5, after no3, 10d
+	程式測試		: no6, after no4, 30d
+	鑽寫使用手冊　　　　 : no7, after no5, 25d
+	轉換檔案		: no8, after no5, 20d
+	系統測試		: no9, after no6, 25d
+	使用者訓練    　　　 : no10, after no7, 20d
+	使用者測試   　　　  : no11, after no9, 25d
 ```	
 </details>
