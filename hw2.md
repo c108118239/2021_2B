@@ -1,4 +1,4 @@
-<!-- 在Chrome上加入擴充功能Markdown Diagrams -->
+**↓在Chrome上加入擴充功能Markdown Diagrams可直接看到圖**
 ```graphviz
 digraph G {
   rankdir="LR";
