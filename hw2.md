@@ -33,3 +33,4 @@ digraph G {
   tip[shape=plaintext, label="關鍵路徑 1→ 2 → 4 → 6 → 9 → 11", fontcolor=red, fontsize=24]
 }
 ```
+![Alt text](pert.svg)
