@@ -1,3 +1,4 @@
+<!-- 在Chrome上加入擴充功能Markdown Diagrams -->
 ```graphviz
 digraph G {
   rankdir="LR";
