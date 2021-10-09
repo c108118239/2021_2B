@@ -1,6 +1,10 @@
-# PERT/CPM
+# PERT/CPM 圖
 ![Alt text](pert.svg)
 
+# Gantt 圖
+![Alt text](gantt.svg)
+
+### Markdown
 
 <details>
 <summary>PERT/CPM</summary>
