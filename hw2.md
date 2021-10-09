@@ -42,7 +42,7 @@ digraph G {
 	node9 -> node11[color=red, penwidth=2]
 	node10 -> node11
 
-	tip[shape=plaintext, label="關鍵路徑 1→ 2 → 4 → 6 → 9 → 11", fontcolor=red, fontsize=24]
+	label[shape=plaintext, label="關鍵路徑 1→ 2 → 4 → 6 → 9 → 11", fontcolor=red, fontsize=24]
 }
 ```
 </details>
